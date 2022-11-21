@@ -88,3 +88,14 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
+
+#inicio .contenido .presentacion h2{
+    font-size:55px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#inicio .contenido .presentacion h2 span{
+    font-size: 45px;
+    color: #aa193f;
+}
