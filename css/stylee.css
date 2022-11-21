@@ -213,5 +213,9 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
         -webkit-transform: rotate3d(0,0,1, 270deg);
         transform: rotate3d(0,0,1 270deg);
     }
+    100%{
+        -webkit-transform: rotate3d(0,0,1, 360deg);
+        transform: rotate3d(0,0,1 360deg);
+    }
  
 }
