@@ -161,3 +161,11 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     position: relative;
     overflow: hidden;
 }
+
+#ofertas_semanales .fila .oferta img{
+    width: 100%;
+    height: 100%;
+    filter: grayscale(1);
+    object-fit: cover;
+    transition: 1s;
+}
