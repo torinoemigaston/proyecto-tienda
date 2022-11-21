@@ -1,2 +1,8 @@
 /* agregamos fuente que vamos a utilizar en la pagina */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,100&display=swap');
+*{
+    margin: auto;
+    padding: 4;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
