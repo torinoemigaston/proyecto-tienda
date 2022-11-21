@@ -39,3 +39,9 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     color: #aa193f;
 
 }
+
+#inicio .contenido header .contenido-header nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
