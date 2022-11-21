@@ -119,3 +119,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     text-transform: uppercase;
     transition: .5s; 
 }
+
+#inicio .contenido .presentacion a:hover{
+    background-color: #aa193f;
+}
