@@ -66,3 +66,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     margin-left: 10px;
     transition: 2ss;
 }
+
+#inicio .contenido header .contenido-header .redes a:hover{
+    color: #aa193f;
+}
