@@ -169,3 +169,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     object-fit: cover;
     transition: 1s;
 }
+
+#ofertas_semanales .fila .oferta:hover img{
+    filter: grayscale(0);
+}
