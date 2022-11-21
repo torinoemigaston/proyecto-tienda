@@ -11,3 +11,9 @@ html {
 } 
 body{ background-image: url(../imagenes/fondo1.jpg) ;
 }
+#inicio {
+    background: linear-gradient(rgba(255, 252, 252, 0.644), rgba(0, 0, 0, 0.664));
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
