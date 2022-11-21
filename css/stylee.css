@@ -24,3 +24,12 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     z-index: 100;
     top: 0;
 }
+
+#inicio .contenido header .contenido-header{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
