@@ -185,3 +185,8 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     bottom: -40px;
     transition: 1s;
 }
+
+#ofertas_semanales .fila .oferta:hover .info{
+    opacity: 1;
+    bottom: 0;
+}
