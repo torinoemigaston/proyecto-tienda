@@ -17,3 +17,10 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     background-position: center center;
     height: 100vh;
 }
+#inicio .contenido header{
+    background-color: rgba(0, 0, 0, .8);
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+}
