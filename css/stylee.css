@@ -99,3 +99,10 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     font-size: 45px;
     color: #aa193f;
 }
+
+#inicio .contenido .presentacion .descripcion{
+    max-width: 700px;
+    margin: 25px auto;
+    font-size: 18px;
+    text-align: center;
+}
