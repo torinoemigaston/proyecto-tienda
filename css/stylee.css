@@ -123,3 +123,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 #inicio .contenido .presentacion a:hover{
     background-color: #aa193f;
 }
+#icono-nav{
+    color:#aa193f;
+    display: none;
+}
