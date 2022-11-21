@@ -147,3 +147,9 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     text-decoration-thickness: 5px;
 
 }
+
+#ofertas_semanales .fila {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
