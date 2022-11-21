@@ -190,3 +190,8 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     opacity: 1;
     bottom: 0;
 }
+
+.rotates{
+    -webkit-animation: rotate 5s normal linear infinite;
+    animation: rotate 5s normal linear infinite;
+}
