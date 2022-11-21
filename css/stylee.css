@@ -136,3 +136,14 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     padding: 100px 0;
     margin: auto;
 }
+
+#ofertas_semanales .titulo-seccion{
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #aa193f ;
+    text-decoration-thickness: 5px;
+
+}
