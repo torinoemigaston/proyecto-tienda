@@ -238,3 +238,8 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 #contacto .contenedor-form .fila {
     margin-bottom: 15px;
 }
+
+#contacto .contenedor-form .mitad{
+    display: flex;
+    justify-content: space-between;
+}
