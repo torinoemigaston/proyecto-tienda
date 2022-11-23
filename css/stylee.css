@@ -228,11 +228,12 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 
 #contacto .titulo-seccion{
     margin-bottom: 20px;
-    font-size: 2px;
+    font-size: 22px;
     text-transform: uppercase;
     color: #919191;
     text-decoration: underline;
     text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px ;
 }
 
 #contacto .contenedor-form{
