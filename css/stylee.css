@@ -266,3 +266,11 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 #contacto .contenedor-form .input-full{
     width: 100%;
 }
+
+#contacto .btn-enviar{
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    transition: 5s;
+    padding: 10px 15px;
+}
