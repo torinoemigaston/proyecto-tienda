@@ -243,3 +243,11 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     display: flex;
     justify-content: space-between;
 }
+
+#contacto .contenedor-form input,
+#contacto .contenedor-form textarea{
+    padding: 40px;
+    border-radius: 40px;
+    border: none;
+    border: 1px solid #c09f9f;
+}
