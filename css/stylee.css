@@ -251,3 +251,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     border: none;
     border: 1px solid #919191;
 }
+
+#contacto .contenedor-form .mitad input{
+    width: 48%;
+}
