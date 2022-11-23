@@ -225,3 +225,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 #contacto{
     padding: 100px 15px;
 }
+
+#contacto .titulo-seccion{
+    margin-bottom: 20px;
+}
