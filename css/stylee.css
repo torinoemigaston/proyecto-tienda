@@ -246,8 +246,8 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 
 #contacto .contenedor-form input,
 #contacto .contenedor-form textarea{
-    padding: 40px;
-    border-radius: 40px;
+    padding: 20px;
+    border-radius: 20px;
     border: none;
-    border: 1px solid #c09f9f;
+    border: 1px solid #919191;
 }
