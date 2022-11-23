@@ -234,3 +234,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     max-width: 1100px;
     margin: auto;
 }
+
+#contacto .contenedor-form .fila {
+    margin-bottom: 15px;
+}
