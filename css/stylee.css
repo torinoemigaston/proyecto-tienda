@@ -255,3 +255,7 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
 #contacto .contenedor-form .mitad input{
     width: 48%;
 }
+
+#contacto .contenedor-form .input-full{
+    width: 100%;
+}
