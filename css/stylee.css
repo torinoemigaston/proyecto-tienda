@@ -231,9 +231,9 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
-    color: #919191;
+    color:#fff;
     text-decoration: underline;
-    text-decoration-color: #d3d3d3;
+    text-decoration-color: #aa193f;
     text-decoration-thickness: 5px ;
 }
 
