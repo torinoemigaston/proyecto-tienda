@@ -271,6 +271,11 @@ body{ background-image: url(../imagenes/fondo1.jpg) ;
     display: block;
     margin: auto;
     cursor: pointer;
-    transition: 5s;
+    transition: 3s;
     padding: 10px 15px;
+}
+
+#contacto .btn-enviar:hover{
+    background-color: #aa193f;
+    color: #fff;
 }
